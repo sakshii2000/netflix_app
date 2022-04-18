@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323863139609",
+    "project_id": "netflix-43467",
+    "storage_bucket": "netflix-43467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323863139609:android:a791b8a8cfd5842fd0a188",
+        "android_client_info": {
+          "package_name": "com.sakshi.netflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323863139609-t794ltgtla41g03g6o3tte73k3ahavjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7SippRKSBiJTwEhj_HHiEKSfNRsW7ftY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323863139609-t794ltgtla41g03g6o3tte73k3ahavjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
