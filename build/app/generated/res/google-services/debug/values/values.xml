@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">323863139609-t794ltgtla41g03g6o3tte73k3ahavjc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">323863139609</string>
+    <string name="google_api_key" translatable="false">AIzaSyB7SippRKSBiJTwEhj_HHiEKSfNRsW7ftY</string>
+    <string name="google_app_id" translatable="false">1:323863139609:android:a791b8a8cfd5842fd0a188</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7SippRKSBiJTwEhj_HHiEKSfNRsW7ftY</string>
+    <string name="google_storage_bucket" translatable="false">netflix-43467.appspot.com</string>
+    <string name="project_id" translatable="false">netflix-43467</string>
+</resources>
